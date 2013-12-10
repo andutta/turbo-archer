@@ -114,7 +114,7 @@ public class RunMonitor {
 			}
 			
 		}
-		
+		//test3
 		//logger.info("Started Directory Monitor Thread");
 	}
 	
