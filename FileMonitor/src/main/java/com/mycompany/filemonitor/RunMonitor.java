@@ -114,8 +114,7 @@ public class RunMonitor {
 			}
 			
 		}
-		//test 3
-		//logger.info("Started Directory Monitor Thread");
+
 	}
 	
 	private static void stopAllThreads(){
